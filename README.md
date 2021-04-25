@@ -6,3 +6,6 @@ Scaricare tutti i contenuti presenti nella cartella 'Homework_1' e eseguire il f
 # Nota
 Tutti i file dovranno stare nella stessa cartella ('Homework_1') e le immagini all'interno della cartella 'Immagini'.</br>
 Il file 'mhw1.pptx' è un power point contenente le informazioni riguardanti il contenuto del progetto, con il relativo codice.
+
+# Nota 2
+Tutti gli Homework fanno parte dello stesso progetto che li comprenderà tutti quanti.
